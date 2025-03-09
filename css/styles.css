@@ -37,7 +37,7 @@ body {
   gap: 20px;
 }
 
-.word > span {
+.word>span {
   position: relative;
   padding: 20px 30px;
   width: max-content;
@@ -82,223 +82,224 @@ body {
 
 /* DID word */
 
-.didDLetter {
+.didDLetter,
+.didDTwoLetter {
+  font-size: 25px;
+  font-weight: normal;
+  color: blueviolet;
+  text-decoration: line-through;
+  text-transform: uppercase;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .didILetter {
+  font-size: 50px;
+  font-weight: 400;
+  color: rgb(255, 233, 63);
+  text-decoration: none;
+  text-transform: none;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .didDTwoLetter {
+  font-size: 35px;
+  text-decoration: underline;
 }
 
 /* THE word */
 
 .theTLetter {
+  font-size: 65px;
+  font-weight: 700;
+  color: #25ff1e;
+  text-decoration: overline;
+  text-transform: capitalize;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .theHLetter {
+  font-size: 29px;
+  color: rgb(230, 93, 148);
 }
 
-.theELetter {
-}
+.theELetter {}
 
 /* FRONT-END word */
 
-.frontendFLetter {
-}
+.frontendFLetter {}
 
-.frontendRLetter {
-}
+.frontendRLetter {}
 
-.frontendOLetter {
-}
+.frontendOLetter {}
 
-.frontendNLetter {
-}
+.frontendNLetter {}
 
-.frontendTLetter {
-}
+.frontendTLetter {}
 
-.frontendELetter {
-}
+.frontendELetter {}
 
-.frontendNTwoLetter {
-}
+.frontendNTwoLetter {}
 
-.frontendDLetter {
-}
+.frontendDLetter {}
 
 /* DEVELOPER word */
 
-.developerDLetter {
-}
-.developerELetter {
-}
-.developerVLetter {
-}
-.developerETwoLetter {
-}
-.developerLLetter {
-}
-.developerOLetter {
-}
-.developerPLetter {
-}
-.developerEThreeLetter {
-}
-.developerRLetter {
-}
+.developerDLetter {}
+
+.developerELetter {}
+
+.developerVLetter {}
+
+.developerETwoLetter {}
+
+.developerLLetter {}
+
+.developerOLetter {}
+
+.developerPLetter {}
+
+.developerEThreeLetter {}
+
+.developerRLetter {}
 
 /* TAKE word */
 
-.takeTLetter {
-}
-.takeALetter {
-}
-.takeKLetter {
-}
-.takeELetter {
-}
+.takeTLetter {}
+
+.takeALetter {}
+
+.takeKLetter {}
+
+.takeELetter {}
 
 /* UP word */
 
-.upULetter {
-}
-.upPLetter {
-}
+.upULetter {}
+
+.upPLetter {}
 
 /* GARDENING word */
 
-.gardeningGLetter {
-}
-.gardeningALetter {
-}
-.gardeningRLetter {
-}
-.gardeningDLetter {
-}
-.gardeningELetter {
-}
-.gardeningNLetter {
-}
-.gardeningILetter {
-}
-.gardeningNTwoLetter {
-}
-.gardeningGTwoLetter {
-}
+.gardeningGLetter {}
+
+.gardeningALetter {}
+
+.gardeningRLetter {}
+
+.gardeningDLetter {}
+
+.gardeningELetter {}
+
+.gardeningNLetter {}
+
+.gardeningILetter {}
+
+.gardeningNTwoLetter {}
+
+.gardeningGTwoLetter {}
 
 /* BECAUSE word */
 
-.becauseBLetter {
-}
-.becauseELetter {
-}
-.becauseCLetter {
-}
-.becauseALetter {
-}
-.becauseULetter {
-}
-.becauseSLetter {
-}
-.becauseETwoLetter {
-}
+.becauseBLetter {}
+
+.becauseELetter {}
+
+.becauseCLetter {}
+
+.becauseALetter {}
+
+.becauseULetter {}
+
+.becauseSLetter {}
+
+.becauseETwoLetter {}
 
 /* THEY word */
 
-.theyTLetter {
-}
-.theyHLetter {
-}
-.theyELetter {
-}
-.theyYLetter {
-}
+.theyTLetter {}
+
+.theyHLetter {}
+
+.theyELetter {}
+
+.theyYLetter {}
 
 /* WANTED word */
 
-.wantedWLetter {
-}
-.wantedALetter {
-}
-.wantedNLetter {
-}
-.wantedTLetter {
-}
-.wantedELetter {
-}
-.wantedDLetter {
-}
+.wantedWLetter {}
+
+.wantedALetter {}
+
+.wantedNLetter {}
+
+.wantedTLetter {}
+
+.wantedELetter {}
+
+.wantedDLetter {}
 
 /* TO word */
 
-.toTLetter {
-}
-.toOLetter {
-}
+.toTLetter {}
+
+.toOLetter {}
 
 /* IMPROVE word */
 
-.improveILetter {
-}
-.improveMLetter {
-}
-.improvePLetter {
-}
-.improveRLetter {
-}
-.improveOLetter {
-}
-.improveVLetter {
-}
-.improveELetter {
-}
+.improveILetter {}
+
+.improveMLetter {}
+
+.improvePLetter {}
+
+.improveRLetter {}
+
+.improveOLetter {}
+
+.improveVLetter {}
+
+.improveELetter {}
 
 /* THEIR word */
 
-.theirTLetter {
-}
-.theirHLetter {
-}
-.theirELetter {
-}
-.theirILetter {
-}
-.theirRLetter {
-}
+.theirTLetter {}
+
+.theirHLetter {}
+
+.theirELetter {}
+
+.theirILetter {}
+
+.theirRLetter {}
 
 /* ROOT word */
 
-.rootRLetter {
-}
-.rootOLetter {
-}
-.rootOTwoLetter {
-}
-.rootTLetter {
-}
+.rootRLetter {}
+
+.rootOLetter {}
+
+.rootOTwoLetter {}
+
+.rootTLetter {}
 
 /* SKILLS word */
 
-.skillsSLetter {
-}
-.skillsKLetter {
-}
-.skillsILetter {
-}
-.skillsLLetter {
-}
-.skillsLTwoLetter {
-}
-.skillsSTwoLetter {
-}
+.skillsSLetter {}
+
+.skillsKLetter {}
+
+.skillsILetter {}
+
+.skillsLLetter {}
+
+.skillsLTwoLetter {}
+
+.skillsSTwoLetter {}
 
 /* SYMBOLS */
 
-.hyphen {
-}
-.exclamation-mark {
-}
-.question-mark {
-}
+.hyphen {}
+
+.exclamation-mark {}
+
+.question-mark {}
